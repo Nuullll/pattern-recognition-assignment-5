@@ -15,4 +15,4 @@ Java Version: Java 1.7.0_75-b13 with Oracle Corporation Java HotSpot(TM) 64-Bit 
 
 ## Usage
 
-Execute [run.m](src/run.m) directly.
+Execute [classifier/run.m](classifier/run.m) and [gradient_descent/run.m](gradient_descent/run.m) directly.
