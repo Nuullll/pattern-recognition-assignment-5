@@ -1,0 +1,7 @@
+.DS_Store
+*~
+report/*
+
+
+!report/report.pdf
+
