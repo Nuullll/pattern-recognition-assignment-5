@@ -1,5 +1,6 @@
 % find classifier functions to distinguish circles and triangles
 addpath 'classifiers';
+addpath '../utilities';
 
 %% dataset
 % use struct for scalability
